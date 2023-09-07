@@ -3,7 +3,7 @@
  
 To identify the most consistently profitable market segment, we will employ the coefficient of variation (CoV), which measures the relative variability of data compared to its mean. This analysis is structured into two primary problem statements:
 
-# Project Objective I I - Data Preparation:
+# Project Objective I - Data Preparation:
 In this phase, we focus on data preprocessing and identifying the most profitable market segment:
 
 Identify 21 unique market segments.
